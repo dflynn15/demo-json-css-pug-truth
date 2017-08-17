@@ -1,0 +1,25 @@
+{
+	"trolls": [
+    {
+			"name": "blue",
+			"styles": {
+				"color": "blue",
+        "font-size": "12px"
+			}
+		},
+		{
+			"name": "green",
+			"styles": {
+				"color": "green",
+        "font-size": "10px"
+			}
+		},
+		{
+			"name": "red",
+			"styles": {
+				"color": "red",
+        "font-size": "14px"
+			}
+		}
+	]
+}

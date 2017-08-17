@@ -1,0 +1,9 @@
+doctype html
+html(lang="en")
+  head
+    title= "Test"
+    style
+    link(rel="stylesheet" type="text/css" href="styles.css")
+  body
+    each troll in trolls
+      div(class=troll.name)= troll.name
